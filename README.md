@@ -1,0 +1,1 @@
+[@bigTechEdits](https://twitter.com/bigtechedits) is a [Twitter](https://twitter.com) [bot](https://en.wikipedia.org/wiki/Internet_bot) that monitors changes that are made anonymously on [Wikipedia](https://wikipedia.org). If the anonymous change was made by an IP from within on of the nets that are listed in this repository, the bot will tweet about it.
